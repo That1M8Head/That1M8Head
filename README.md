@@ -3,6 +3,7 @@ I'm a 19 year old boy currently in college. I mostly use GitHub for side project
 
 My main languages are C++ and C# (I used to use Python a lot but I don't as much anymore)
 
+I like messing around with computers and I'm very good at... "experimenting" with them.
 
 #### What I'm working on
 - A Doom mod about Sonic [![alt text](https://github.com/SpeedStriker243/SpeedStriker243/raw/master/NextButton.png "Sonic: Lock & Load")](https://github.com/SpeedStriker243/sonicdoom)
