@@ -7,5 +7,5 @@ I like messing around with computers and I'm very good at... "experimenting" wit
 
 #### What I'm working on
 - A Doom mod about Sonic [![alt text](https://github.com/SpeedStriker243/SpeedStriker243/raw/main/NextButton.png "Sonic: Lock & Load")](https://github.com/SpeedStriker243/sonicdoom)
-- A program that configures and launches a Windows 98 VM [![alt text](https://github.com/SpeedStriker243/SpeedStriker243/raw/main/NextButton.png "Windows 98 Launcher")](https://github.com/SpeedStriker243/Windows98Launcher)
+- A command line application that feels like an OS [![alt text](https://github.com/SpeedStriker243/SpeedStriker243/raw/main/NextButton.png "EsosCMD")](https://github.com/SpeedStriker243/EsosCMD)
 - A launcher for Doom that gets you playing in less than ten seconds [![alt text](https://github.com/SpeedStriker243/SpeedStriker243/raw/main/NextButton.png "Instant Doom")](https://github.com/SpeedStriker243/Instant-Doom)
