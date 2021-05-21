@@ -17,3 +17,4 @@ I like messing around with computers and I've broken stuff way more times than I
 - **Code editor** - [Visual Studio Code](https://code.visualstudio.com/) and [DOOM Emacs](https://github.com/hlissner/doom-emacs)
 - **Drawing app** - [GIMP](https://www.gimp.org/) and [Autodesk Sketchbook](https://www.autodesk.com/products/sketchbook/overview)
 - **DOOM source port** - [Crispy Doom](https://www.chocolate-doom.org/wiki/index.php/Crispy_Doom) and [GZDoom](https://zdoom.org/index)
+- **Game controller** - [DualShock 4](https://www.playstation.com/en-gb/accessories/dualshock-4-wireless-controller/) and [Xbox One Wireless Controller](https://www.xbox.com/en-GB/accessories/controllers/blue-wireless-controller)
