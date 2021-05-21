@@ -12,8 +12,8 @@ I like messing around with computers and I've broken stuff way more times than I
 ### Stuff I use
 
 - **Daily driver** - [iMac 27" (Late 2013)](https://support.apple.com/kb/sp688?locale=en_GB)
-- **Operating system** - Arch Linux and Windows 10
-- **Mobile phone** - iPhone XR
-- **Code editor** - Visual Studio Code and DOOM Emacs
-- **Drawing app** - GIMP and Autodesk Sketchbook
-- **DOOM source port** - Crispy Doom and GZDoom
+- **Operating system** - [Arch Linux](https://archlinux.org) and [Windows 10](https://www.microsoft.com/en-gb/windows/)
+- **Mobile phone** - [iPhone XR](https://www.apple.com/iphone-xr/specs/)
+- **Code editor** - [Visual Studio Code](https://code.visualstudio.com/) and [DOOM Emacs](https://github.com/hlissner/doom-emacs)
+- **Drawing app** - [GIMP](https://www.gimp.org/) and [Autodesk Sketchbook](https://www.autodesk.com/products/sketchbook/overview)
+- **DOOM source port** - [Crispy Doom](https://www.chocolate-doom.org/wiki/index.php/Crispy_Doom) and [GZDoom](https://zdoom.org/index)
