@@ -15,7 +15,7 @@ I like messing around with computers and I've broken stuff way more times than I
 - **Operating system** - [Arch Linux](https://archlinux.org) and [Windows 10](https://www.microsoft.com/en-gb/windows/)
 - **DE/WM** - [KDE Plasma 5](https://kde.org/plasma-desktop/) and [i3-gaps](https://github.com/Airblader/i3)
 - **Mobile phone** - [iPhone XR](https://www.apple.com/iphone-xr/specs/)
-- **Code editor** - [Visual Studio Code](https://code.visualstudio.com/) and [DOOM Emacs](https://github.com/hlissner/doom-emacs)
+- **Code editor** - [Visual Studio Code](https://code.visualstudio.com/) and Emacs ([my config](https://github.com/That1M8Head/.emacs.d))
 - **Drawing app** - [GIMP](https://www.gimp.org/) and [Autodesk Sketchbook](https://www.autodesk.com/products/sketchbook/overview)
 - **DOOM source port** - [Crispy Doom](https://www.chocolate-doom.org/wiki/index.php/Crispy_Doom) and [GZDoom](https://zdoom.org/index)
 - **Game controller** - [DualShock 4](https://www.playstation.com/en-gb/accessories/dualshock-4-wireless-controller/) and [Xbox One Wireless Controller](https://www.xbox.com/en-GB/accessories/controllers/blue-wireless-controller)
