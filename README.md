@@ -1,7 +1,8 @@
 ### ✨ Welcome! ✨
 I'm a 19 year old boy (he/him) currently in college. I mostly use GitHub for side projects and experiments.
 
-My main languages are C(++) and Python.
+I currently mainly program in C for my new projects, though I occasionally find myself going back to C++ and Python.
+
 I like messing around with computers and I've broken stuff way more times than I'd like to admit.
 
 ### What I'm working on
