@@ -17,6 +17,6 @@ I like messing around with computers and I've broken stuff way more times than I
 - **Window manager** - [i3-gaps](https://github.com/Airblader/i3) and [dwm](https://dwm.suckless.org)
 - **Mobile phone** - [iPhone XR](https://www.apple.com/iphone-xr/specs/)
 - **Code editor** - [VSCodium](https://github.com/vscodium/vscodium/)
-- **Drawing app** - [GIMP](https://www.gimp.org/) and [Sketchbook](https://www.sketchbook.com/)
+- **Drawing app** - [GIMP](https://www.gimp.org/) and [Krita](https://krita.org)
 - **DOOM source port** - [Crispy Doom](https://www.chocolate-doom.org/wiki/index.php/Crispy_Doom) and [GZDoom](https://zdoom.org/index)
 - **Game controller** - [Xbox One Wireless Controller](https://www.xbox.com/en-GB/accessories/controllers/blue-wireless-controller)
