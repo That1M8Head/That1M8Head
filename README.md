@@ -5,10 +5,8 @@ I currently mainly program in C for my new projects, C++ or Python as fallbacks,
 
 I like messing around with computers and I've broken stuff way more times than I'd like to admit.
 
-### What I'm working on
-- A GZDoom mod based on Sonic [![Sonic: Lock & Load](https://github.com/That1M8Head/That1M8Head/raw/main/NextButton.png "Sonic: Lock & Load")](https://github.com/That1M8Head/Sonic-LockandLoad)
-- A satirical shell made with the intention of being stupid [![Something++](https://github.com/That1M8Head/That1M8Head/raw/main/NextButton.png "Something++")](https://github.com/That1M8Head/SomethingPlusPlus) 
-- A command line launcher for classic DOOM [![CmdDoomLauncher](https://github.com/That1M8Head/That1M8Head/raw/main/NextButton.png "CmdDoomLauncher")](https://github.com/That1M8Head/CmdDoomLauncher) 
+**Here's my main project, Sonic: Lock and Load, a Doom mod!**
+[![Sonic: Lock & Load](https://github.com/That1M8Head/That1M8Head/raw/main/lock-and-load-banner.png "Sonic: Lock & Load")](https://github.com/That1M8Head/Sonic-LockandLoad)
 
 ### Stuff I use
 
@@ -19,4 +17,5 @@ I like messing around with computers and I've broken stuff way more times than I
 - **Code editor** - [VSCodium](https://github.com/vscodium/vscodium/)
 - **Drawing app** - [GIMP](https://www.gimp.org/) and [Krita](https://krita.org)
 - **DOOM source port** - [Crispy Doom](https://www.chocolate-doom.org/wiki/index.php/Crispy_Doom) and [GZDoom](https://zdoom.org/index)
+- **DOOM map editor** - [SLADE](https://slade.mancubus.net/) (Doom Builder is too confusing)
 - **Game controller** - [Xbox One Wireless Controller](https://www.xbox.com/en-GB/accessories/controllers/blue-wireless-controller)
