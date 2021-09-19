@@ -5,7 +5,6 @@ I currently mainly program in C for my new projects, C++ or Python as fallbacks,
 
 I like messing around with computers and I've broken stuff way more times than I'd like to admit.
 
-**Here's my main project, Sonic: Lock and Load, a Doom mod!**
 [![Sonic: Lock & Load](https://github.com/That1M8Head/That1M8Head/raw/main/lock-and-load-banner.png "Sonic: Lock & Load")](https://github.com/That1M8Head/Sonic-LockandLoad)
 
 ### Stuff I use
