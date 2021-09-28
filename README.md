@@ -1,5 +1,5 @@
 ### ✨ Welcome! ✨
-I'm a 19 year old boy (he/him) currently in college. I mostly use GitHub for side projects and experiments.
+I'm a 20 year old boy (he/him) currently in college. I mostly use GitHub for side projects and experiments.
 
 I currently mainly program in C for my new projects, C++ or Python as fallbacks, and C# for when I'm doing .NET GUI stuff.
 
