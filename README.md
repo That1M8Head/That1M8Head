@@ -10,11 +10,11 @@ I like messing around with computers and I've broken stuff way more times than I
 ### Stuff I use
 
 - **Daily driver** - [iMac 27" (Late 2013)](https://support.apple.com/kb/sp688?locale=en_GB)
-- **Operating system** - [Arch Linux](https://archlinux.org) and [Windows 10](https://www.microsoft.com/en-gb/windows/)
-- **Window manager** - [i3-gaps](https://github.com/Airblader/i3) and [dwm](https://dwm.suckless.org)
+- **Operating system** - [macOS Mojave](https://web.archive.org/web/20190901002230/https://www.apple.com/macos/mojave/), [Windows 10](https://www.microsoft.com/en-gb/windows/windows-10-specifications), [Arch Linux](https://archlinux.org)
+- **Window manager** (GNU/Linux only) - [i3-gaps](https://github.com/Airblader/i3), [dwm](https://dwm.suckless.org)
 - **Mobile phone** - [iPhone XR](https://www.apple.com/iphone-xr/specs/)
 - **Code editor** - [VSCodium](https://github.com/vscodium/vscodium/), [Emacs](https://github.com/That1M8Head/.emacs.d), Vim
-- **Drawing app** - [GIMP](https://www.gimp.org/) and [Krita](https://krita.org)
-- **DOOM source port** - [Crispy Doom](https://www.chocolate-doom.org/wiki/index.php/Crispy_Doom) and [GZDoom](https://zdoom.org/index)
+- **Drawing app** - [GIMP](https://www.gimp.org/), [Krita](https://krita.org)
+- **DOOM source port** - [Crispy Doom](https://www.chocolate-doom.org/wiki/index.php/Crispy_Doom), [GZDoom](https://zdoom.org/index)
 - **DOOM map editor** - [SLADE](https://slade.mancubus.net/) (Doom Builder is too confusing)
 - **Game controller** - [Xbox One Wireless Controller](https://www.xbox.com/en-GB/accessories/controllers/blue-wireless-controller)
