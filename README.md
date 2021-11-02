@@ -1,3 +1,5 @@
+<div style="text-align:center;">
+
 ### ✨ Welcome! ✨
 I'm a 20 year old boy (he/him) currently in college. I mostly use GitHub for side projects and experiments.
 
@@ -18,3 +20,5 @@ I like messing around with computers and I've broken stuff way more times than I
 - **DOOM source port** - [Crispy Doom](https://www.chocolate-doom.org/wiki/index.php/Crispy_Doom), [GZDoom](https://zdoom.org/index)
 - **DOOM map editor** - [SLADE](https://slade.mancubus.net/) (Doom Builder is too confusing)
 - **Game controller** - [Xbox One Wireless Controller](https://www.xbox.com/en-GB/accessories/controllers/blue-wireless-controller)
+	
+</div>
