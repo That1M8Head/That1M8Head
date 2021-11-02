@@ -10,7 +10,7 @@ I like messing around with computers and I've broken stuff way more times than I
 - **Operating system** - [macOS Mojave](https://web.archive.org/web/20190901002230/https://www.apple.com/macos/mojave/), [Windows 10](https://www.microsoft.com/en-gb/windows/windows-10-specifications), [Arch Linux](https://archlinux.org)
 - **Window manager** (GNU/Linux only) - [i3-gaps](https://github.com/Airblader/i3), [dwm](https://dwm.suckless.org)
 - **Mobile phone** - [iPhone XR](https://www.apple.com/iphone-xr/specs/)
-- **Code editor** - [VSCodium](https://github.com/vscodium/vscodium/), [Emacs](https://github.com/That1M8Head/.emacs.d), Vim
+- **Code editor** - [VSCodium](https://github.com/vscodium/vscodium/), [Emacs](https://github.com/That1M8Head/.emacs.d), [Vim](https://gist.github.com/That1M8Head/6e09c00617abbd561ad84e9442fb14d3#file-vimrc)
 - **Drawing app** - [GIMP](https://www.gimp.org/), [Krita](https://krita.org)
 - **DOOM source port** - [Crispy Doom](https://www.chocolate-doom.org/wiki/index.php/Crispy_Doom), [GZDoom](https://zdoom.org/index)
 - **DOOM map editor** - [SLADE](https://slade.mancubus.net/) (Doom Builder is too confusing)
