@@ -1,6 +1,6 @@
 <h3 align="center">✨ Welcome! ✨</h3>
 <p align="center">
-I'm a 20 year old boy (he/him) currently in college. I mostly use GitHub for side projects and experiments.<br>
+I'm a 20 year old boy (he/him) currently in college. I mainly use GitHub for software I make.<br>
 I currently mainly program in C for my new projects, C++ or Python as fallbacks, and C# for when I'm doing .NET GUI stuff.<br>
 I like messing around with computers and I've broken stuff way more times than I'd like to admit.
 </p>
