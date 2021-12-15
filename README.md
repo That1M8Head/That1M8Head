@@ -8,9 +8,10 @@ I like messing around with computers and I've broken stuff way more times than I
 ### Stuff I use
 - **Daily driver** - [iMac 27" (Late 2013)](https://support.apple.com/kb/sp688?locale=en_GB)
 - **Operating system** - [macOS Catalina](https://web.archive.org/web/20201109035708/http://www.apple.com/macos/catalina/), [Windows 10](https://www.microsoft.com/en-gb/windows/windows-10-specifications), [Arch Linux](https://archlinux.org)
-- **Window manager** - [i3-gaps](https://github.com/Airblader/i3), [dwm](https://dwm.suckless.org)
+- **Window manager** - [i3-gaps](https://github.com/That1M8Head/dotfiles/blob/main/.config/i3/config), [dwm](https://dwm.suckless.org)
 - **Mobile phone** - [iPhone XR](https://www.apple.com/iphone-xr/specs/)
-- **Code editor** - [VSCodium](https://github.com/vscodium/vscodium/), [Emacs](https://github.com/That1M8Head/.emacs.d), [Vim](https://gist.github.com/That1M8Head/6e09c00617abbd561ad84e9442fb14d3#file-vimrc)
+- **Terminal emulator** - [Alacritty](https://github.com/That1M8Head/dotfiles/blob/main/.config/alacritty/alacritty.yml)
+- **Code editor** - [VSCodium](https://github.com/vscodium/vscodium/), [Emacs](https://github.com/That1M8Head/.emacs.d), [Vim](https://github.com/That1M8Head/dotfiles/blob/main/.vimrc)
 - **Drawing app** - [GIMP](https://www.gimp.org/), [Krita](https://krita.org)
 - **DOOM source port** - [Crispy Doom](https://www.chocolate-doom.org/wiki/index.php/Crispy_Doom), [GZDoom](https://zdoom.org/index)
 - **DOOM map editor** - [SLADE](https://slade.mancubus.net/) (Doom Builder is too confusing)
