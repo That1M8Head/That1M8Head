@@ -15,7 +15,7 @@
            `/++++++++++++++:             Shell: zsh
           `/+++ooooooooooooo/`           DE: xfce4
          ./ooosssso++osssssso+`          WM: i3-gaps
-        .oossssso-````/ossssss+`         Theme: Arc Dark
+        .oossssso-````/ossssss+`         Browser: qutebrowser
        -osssssso.      :ssssssso.        Terminal: alacritty
       :osssssss/        osssso+++.       
      /ossssssss/        +ssssooo/-       
