@@ -16,7 +16,7 @@
           `/+++ooooooooooooo/`           DE: xfce4
          ./ooosssso++osssssso+`          WM: i3-gaps
         .oossssso-````/ossssss+`         Browser: qutebrowser
-       -osssssso.      :ssssssso.        Terminal: alacritty
+       -osssssso.      :ssssssso.        Terminal: urxvt
       :osssssss/        osssso+++.       
      /ossssssss/        +ssssooo/-       
    `/ossssso+/:-        -:/+osssso+-     
