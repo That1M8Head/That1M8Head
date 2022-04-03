@@ -8,10 +8,10 @@
                   .o+`                   -----------------------
                  `ooo/                   OS: Arch Linux
                 `+oooo:                  Host: Sony VAIO VPCCA1S1E
-               `+oooooo:                 Editor: Vim
-               -+oooooo+:                DOOM source port: GZDoom 4.7.1
-             `/:-:++oooo+:               DOOM map editor: Ultimate Doom Builder r3905
-            `/++++/+++++++:              Drawing app: GIMP 2.10.30
+               `+oooooo:                 Text editors: DOOM Emacs & Vim
+               -+oooooo+:                DOOM source port: GZDoom
+             `/:-:++oooo+:               DOOM map editor: Ultimate Doom Builder
+            `/++++/+++++++:              Drawing app: GIMP
            `/++++++++++++++:             Shell: zsh
           `/+++ooooooooooooo/`           WM: i3-gaps
          ./ooosssso++osssssso+`          Terminal: urxvt
