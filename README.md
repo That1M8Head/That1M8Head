@@ -8,13 +8,13 @@
                   .o+`                   -----------------------
                  `ooo/                   OS: Arch Linux
                 `+oooo:                  Host: Sony VAIO VPCCA1S1E
-               `+oooooo:                 Text editors: Vim, Emacs
+               `+oooooo:                 Text editor: Neovim
                -+oooooo+:                DOOM source port: GZDoom
              `/:-:++oooo+:               DOOM map editor: Ultimate Doom Builder
             `/++++/+++++++:              Drawing app: GIMP
            `/++++++++++++++:             Shell: zsh
           `/+++ooooooooooooo/`           WM: i3-gaps
-         ./ooosssso++osssssso+`          Terminal: urxvt
+         ./ooosssso++osssssso+`          Terminal: kitty
         .oossssso-````/ossssss+`         Browser: qutebrowser
        -osssssso.      :ssssssso.        
       :osssssss/        osssso+++.       
