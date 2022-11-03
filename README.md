@@ -1,6 +1,6 @@
 <h3 align="center">✨ Welcome! ✨</h3>
 <h4 align="center">
-20 | he/him | professional computer fricker-upper
+21 | he/him | professional computer fricker-upper
 </h4>
 
 ```
@@ -8,14 +8,14 @@
                   .o+`                   -----------------------
                  `ooo/                   OS: Arch Linux
                 `+oooo:                  Host: Sony VAIO VPCCA1S1E
-               `+oooooo:                 Text editors: Neovim, Emacs
+               `+oooooo:                 Text editors: Emacs, Vim
                -+oooooo+:                DOOM source port: GZDoom
              `/:-:++oooo+:               DOOM map editor: Ultimate Doom Builder
             `/++++/+++++++:              Drawing app: GIMP
            `/++++++++++++++:             Shell: zsh
-          `/+++ooooooooooooo/`           WM: i3-gaps
+          `/+++ooooooooooooo/`           WM: awesome
          ./ooosssso++osssssso+`          Terminal: kitty
-        .oossssso-````/ossssss+`         Browser: qutebrowser
+        .oossssso-````/ossssss+`         Browser: qutebrowser, Brave
        -osssssso.      :ssssssso.        
       :osssssss/        osssso+++.       
      /ossssssss/        +ssssooo/-       
