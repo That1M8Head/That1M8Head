@@ -8,7 +8,7 @@
                   .o+`                   -----------------------
                  `ooo/                   OS: Arch Linux
                 `+oooo:                  Host: Sony VAIO VPCCA1S1E
-               `+oooooo:                 Text editors: Emacs, Vim
+               `+oooooo:                 Text editors: Emacs, Vim, VSCodium, Nano, Micro, Helix-- I use a lot of editors.
                -+oooooo+:                DOOM source port: GZDoom
              `/:-:++oooo+:               DOOM map editor: Ultimate Doom Builder
             `/++++/+++++++:              Drawing app: GIMP
