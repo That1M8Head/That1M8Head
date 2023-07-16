@@ -10,7 +10,7 @@ I'm technically a software developer, but I prefer to call myself a professional
 Here's some of my, uh... "defining traits."
 
 + **I write code sometimes, and do other stuff other times.** I like spending my time writing code, messing around with computers, playing games, making random edits, watching YouTube videos and sleeping.
-+ **I like text editors, like, a lot.** I'm always in the market for a new text editor, from the boring, to the impressive, to the weird, to the efficient. Do I need to use so many? No. I just like text editors a lot.
++ **I like text editors, like, a lot.** I'm always in the market for a new text editor, from the boring, to the impressive, to the weird, to the efficient. Do I need to use so many? No. I just like text editors a lot. I like them so much that [I made](https://github.com/That1M8Head/sued) [two of them](https://github.com/That1M8Head/QVSED).
 + **I'm a game developer.** Well, uh, in a way. Technically. "DOOM modder" is a more accurate title. My main "game development" project is [Sonic: Lock & Load](https://github.com/Sonic-LockandLoad/Sonic-LockandLoad).
 + **I make sometimes funny videos.** And by that I mean "sometimes funny," not "sometimes videos." You can find my YouTube channel [here](https://youtube.com/@that1m8head), though that doesn't really show me doing a lot of code stuff.
 + **I'm running out of ideas.** Uhhhh. . . yeah, no. That's pretty much it. That's all I've got.
