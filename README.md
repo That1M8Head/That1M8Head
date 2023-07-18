@@ -15,4 +15,6 @@ Here's some of my, uh... "defining traits."
 + **I make sometimes funny videos.** And by that I mean "sometimes funny," not "sometimes videos." You can find my YouTube channel [here](https://youtube.com/@that1m8head), though that doesn't really show me doing a lot of code stuff.
 + **I'm running out of ideas.** Uhhhh. . . yeah, no. That's pretty much it. That's all I've got.
 
+[![That1M8Head's GitHub stats](https://github-readme-stats.vercel.app/api?username=that1m8head&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
 Bye!
