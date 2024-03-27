@@ -1,20 +1,18 @@
 <h3 align="center">✨ Welcome! ✨</h3>
 <h4 align="center">
-21 | he/him | professional computer fricker-upper
+22 | he/him | game/software developer, creative author
 </h4>
 
-Hi, I'm Arsalan, I'm a 21-but-soon-turning-22 year old guy from the monarchy that's also a democracy for some reason commonly referred to as Britain, colloquially referred to as the land of tea.
+Hi, I'm Arsalan (real name), or Aeria (dev pseudonym). I'm 22 years old and I'm a game/software developer and creative author for fun.
 
-I'm technically a software developer, but I prefer to call myself a professional computer breaker.
+I live in north west London, and I'm currently a student at the University of Hertfordshire.
 
-Here's some of my, uh... "defining traits."
+I mainly write code in Python and Rust, but I'm also learning Haskell. Rust is my primary programming language, and Python is my secondary.
 
-+ **I write code sometimes, and do other stuff other times.** I like spending my time writing code, messing around with computers, playing games, making random edits, watching YouTube videos and sleeping.
-+ **I like text editors, like, a lot.** I'm always in the market for a new text editor, from the boring, to the impressive, to the weird, to the efficient. Do I need to use so many? No. I just like text editors a lot. I like them so much that [I made](https://github.com/That1M8Head/sued) [two of them](https://github.com/That1M8Head/QVSED).
-+ **I'm a game developer.** Well, uh, in a way. Technically. "DOOM modder" is a more accurate title. My main "game development" project is [Sonic: Lock & Load](https://github.com/Sonic-LockandLoad/Sonic-LockandLoad).
-+ **I make sometimes funny videos.** And by that I mean "sometimes funny," not "sometimes videos." You can find my YouTube channel [here](https://youtube.com/@that1m8head), though that doesn't really show me doing a lot of code stuff.
-+ **I'm running out of ideas.** Uhhhh. . . yeah, no. That's pretty much it. That's all I've got.
+I also enjoy writing short stories and character profiles.
+
+For creative writing, I use whatever format is most convenient at any given time, but it's usually a lightweight markup language like Markdown or a proper typesetting format like LaTeX.
+
+My text editors of choice include Visual Studio Code, GNU Emacs and Neovim, but I'm also a text editor fanatic, so there's a lot of text editors I like messing around with.
 
 [![That1M8Head's GitHub stats](https://github-readme-stats.vercel.app/api?username=that1m8head&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
-Bye!
